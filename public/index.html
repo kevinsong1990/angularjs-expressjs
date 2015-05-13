@@ -1,0 +1,14 @@
+<!doctype html>
+<html ng-app="myApp">
+	<head>
+		<script src="lib/angular-1.3.15/angular.js"></script>
+		<script src="lib/angular-1.3.15/angular-route.js"></script>
+		<script src="js/controller.js"></script>
+		<script src="js/angularMainApp.js"></script>
+	</head>
+	<body ng-view>
+        <div ng-controller="indexContrl">
+			<p>Hello {{name}}</p>
+		</div>
+	</body>
+</html>

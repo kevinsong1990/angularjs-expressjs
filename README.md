@@ -3,7 +3,7 @@
 Angular JS is an execent Javascript framwork in UI frontend. Express JS is an popular Node.js module in UI backend. 
 And it's popular to use them together now. 
 
-So I create this demo, it's an very easy demo to set up an webisite, using Angular JS(1.3.15)  in frontend, and Express JS(4.12.1) in backend.
+So I create this demo, it's an very easy demo to set up an webisite, using Angular JS(1.3.15) in frontend, and Express JS(4.12.1) in backend.
 
 This can help you understand how they works better.
 
